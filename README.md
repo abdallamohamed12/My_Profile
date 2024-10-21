@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdalla mohamed
 - 👀 I’m interested in Data Sturcures ,Algorithms but mainly on Mobile Develobment(Android) with some interesting in Data Science/AI
-- 🌱 I’m currently learning Data Structers/Algorithms,Mobile Development and a bit of 
+- 🌱 I’m currently learning Data Structers/Algorithms,Mobile Development and a bit of Data Science/AI at DataCamp
 - 📫 How to reach me my E-mail: abdallamusa103@gmail.com or contact me at linkedIn At: www.linkedin.com/in/abdallamusa
 
 
